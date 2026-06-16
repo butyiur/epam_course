@@ -6,8 +6,12 @@ On this their chosen battle field
 Form the lines
 Shield by shield
 Side by side
+<<<<<<< HEAD
 
 
 
 
 üdv itt
+=======
+We're marching into destiny
+>>>>>>> parent of 99c0b6c (reformatting)
